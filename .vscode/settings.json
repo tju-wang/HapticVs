@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "kinematic.h": "c",
+        "solvefbi.h": "c",
+        "windows.h": "c",
+        "main.h": "c",
+        "matrixadvlib.h": "c",
+        "my_matrixadvlib.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
